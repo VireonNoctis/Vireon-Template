@@ -81,6 +81,13 @@
 
 
 <!-- ABOUT THE PROJECT -->
+<!-- REPOSITORY-HEALTH:START -->
+[![Code quality](https://github.com/VireonNoctis/Vireon-Template/actions/workflows/repository-health.yml/badge.svg?branch=main)](https://github.com/VireonNoctis/Vireon-Template/actions/workflows/repository-health.yml)
+[![Top language](https://img.shields.io/github/languages/top/VireonNoctis/Vireon-Template?style=flat-square)](https://github.com/VireonNoctis/Vireon-Template)
+[![Languages](https://img.shields.io/github/languages/count/VireonNoctis/Vireon-Template?style=flat-square)](https://github.com/VireonNoctis/Vireon-Template)
+[![Automated tech stack](https://img.shields.io/badge/tech_stack-auto--detected-64748b?style=flat-square)](TECH_STACK.md)
+<!-- REPOSITORY-HEALTH:END -->
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
